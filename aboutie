@@ -1,0 +1,12 @@
+<html>
+    <head>
+        
+        <title> Deze titel verschijnt in de tab van je browser </title>
+    </head>
+    <body>
+    <h1>Welkom in mijn hoofd</h1>-- hier zet je de code in de body tags-->
+    <h2>Een kijkje in wie ik ben, traag als een slak</h2>  
+    <p>Ik ben chaotisch geordend, met milde, vooruit, stevige nadruk op chaotisch. Maar de wereld is ook zo overvloedig in alles, dat ik het vaak moeilijk vind om te focussen. Ik wil zo veel mogelijk zien, meemaken, doen.</p>
+    <img src="IMG_5161.JPG"> 
+    <a href="opdracht 2 pagina 1.html">terug naar huis, pagina 1</a> </body>
+</html>
